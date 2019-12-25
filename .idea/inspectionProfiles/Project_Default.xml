@@ -7,6 +7,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="data.db" />
+          <option value="bullet.ai_settings" />
         </list>
       </option>
     </inspection_tool>
